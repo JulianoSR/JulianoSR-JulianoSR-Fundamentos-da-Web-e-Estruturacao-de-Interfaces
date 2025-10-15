@@ -1,0 +1,37 @@
+body {
+  background-image: url('projeto/imagens/fundoonG.webp');
+}
+th, td {
+       padding-left: 70px;  /* Espaço à esquerda */
+    padding-right: 70px; /* Espaço à direita */
+    padding-top: 0;      /* Sem espaço acima */
+    padding-bottom: 0;   /* Sem espaço abaixo */
+    text-align: center;
+
+    }
+h4{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+header {
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  text-align: center;
+}
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+button {
+  background-color: #c4c2c2;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}

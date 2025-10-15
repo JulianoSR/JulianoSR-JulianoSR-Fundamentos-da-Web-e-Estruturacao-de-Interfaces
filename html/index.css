@@ -1,0 +1,29 @@
+body{background-image: url('projeto/imagens/temadefundo.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center top 100px ;
+}
+h1{
+    text-align: center;
+}
+table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+       padding-left: 70px;  /* Espaço à esquerda */
+    padding-right: 70px; /* Espaço à direita */
+    padding-top: 0;      /* Sem espaço acima */
+    padding-bottom: 0;   /* Sem espaço abaixo */
+    text-align: left;
+
+    }
+    .recuo {
+      text-indent: 30px; /* 👈 Recuo na primeira linha */
+    }
+
+    .sem-recuo {
+      text-indent: 0; /* 👈 Sem recuo */
+    }
+

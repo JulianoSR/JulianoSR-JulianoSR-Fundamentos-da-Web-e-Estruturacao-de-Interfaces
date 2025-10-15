@@ -1,0 +1,12 @@
+body{
+    background-image: url('projeto/imagens/fundoonG.webp');
+
+}
+button {
+  background-color: #cccbcb;
+  color: white;
+  padding: 10px 20px;
+  border: black;
+  border-radius: 100px;
+  cursor: pointer;
+}
