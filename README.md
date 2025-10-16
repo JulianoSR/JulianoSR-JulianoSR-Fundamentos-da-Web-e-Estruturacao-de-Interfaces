@@ -9,7 +9,7 @@ A entrega estabelece a *base estrutural sólida* para uma futura plataforma soci
 
 ## 🧱 Estrutura e Páginas do Projeto
 
-O site é composto por *três páginas principais, desenvolvidas com **HTML5 semântico*, respeitando a hierarquia lógica de títulos (<h1> a <h6>) e boas práticas de acessibilidade.
+O site é composto por *três páginas principais, desenvolvidas com **HTML5 semântico*, respeitando a hierarquia lógica de títulos e boas práticas de acessibilidade.
 
 ### 🏠 1. Página Inicial (index.html)
 Apresenta informações gerais sobre a organização, sua missão e valores.  
